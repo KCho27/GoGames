@@ -1,4 +1,6 @@
-# Boilermaker
+# GoGames
+
+WILL UPDATE README WHEN FINISHED
 
 _Good things come in pairs_
 
